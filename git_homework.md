@@ -64,6 +64,9 @@
  ![screenshot3](Screenshot3.png)
 
 ### Команда *git diff*
+Показывает разницу между текущим файлом и сохранённым:
+
+`git diff`
 
 ### Команда *git checkout*
 
